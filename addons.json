@@ -1,0 +1,19 @@
+[
+	{
+		"tosversion" : "20250805",
+		"name" : "Vakarine Helper",
+		"file" : "vakarine_helper",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.6",
+		"releaseTag" : "vakarine_helper",
+		"unicode" : "⛄",
+		"description" : "Button to Unequip/Equip items to activate revenge effect, necklace last.",
+		"tags" : [
+			"experience",
+			"ui",
+            "vakarine",
+            "rakka",
+            "item"
+		]
+	}
+]
